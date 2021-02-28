@@ -1,0 +1,16 @@
+.country-container{
+    border:3px solid red;
+    margin:25px;
+    width: 450px;
+    height:450px;
+
+}
+.all-countries{
+    text-align:center;
+    padding: 10px;
+}
+
+.country-container img{
+    height:80px;
+    
+}
